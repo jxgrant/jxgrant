@@ -29,11 +29,3 @@ Hello, my name is Jamie I am from the UK I study Mathematics.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg", width="40">
   --->
 </p>
-
-##  PGP Key
-
-## Extra
-
-<p align="left"></p>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Shifter420.png" alt="Your Image Badge" />
-</p>
